@@ -1,9 +1,3 @@
-<div>
-  <a href="www.linkedin.com/in/todd-stark-ii">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
 ## :man_technologist: About Me
 
 I am a full stack developer from Peoria, IL, 🇺🇸.
@@ -28,4 +22,10 @@ ___
   <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' title='Git' width='40' height='40' />
   <img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' title='AWS' height='40' width='40' />
   <img src='https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg' title='Azure' width='40' height='40' />
+</div>
+
+<div>
+  <a href="www.linkedin.com/in/todd-stark-ii">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
