@@ -22,4 +22,4 @@ ___
   <img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' title='AWS' height='40' width='40' />
   <img src='https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg' title='Azure' width='40' height='40' />
 </div>
----
+___
