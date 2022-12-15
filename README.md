@@ -29,8 +29,9 @@ ___
 
 ## :octocat: My Github Stats
 
-![Todd's Github Stats](https://github-readme-stats.vercel.app/api?username=tstark2&count_private=true&theme=darcula)
+![Todd's Github Stats](https://github-readme-stats.vercel.app/api?username=tstark2&count_private=true&theme=darcula&layout=compact)
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=tstark2&theme=darcula)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tstark2&count_private=true&theme=darcula&layout=compact)
 
 
 ---
