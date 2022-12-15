@@ -24,6 +24,8 @@ ___
   <img src='https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg' title='Azure' width='40' height='40' />
 </div>
 
+---
+
 <div>
   <a href="www.linkedin.com/in/todd-stark-ii">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
