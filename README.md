@@ -1,6 +1,6 @@
 ## :man_technologist: About Me
 
-I am a full stack developer from Peoria, IL, 🇺🇸. I'm currently working as a Developer at Bayer
+I am a full stack developer from Peoria, IL, 🇺🇸. I'm currently working from home as a Developer at Bayer Crop Science
 
 ___
 ## :hammer_and_wrench: Languages and Tools
