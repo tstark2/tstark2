@@ -1,3 +1,9 @@
+<div>
+  <a href="www.linkedin.com/in/todd-stark-ii">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
 ## :man_technologist: About Me
 
 I am a full stack developer from Peoria, IL, 🇺🇸.
