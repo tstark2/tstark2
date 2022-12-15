@@ -1,4 +1,4 @@
-## :male_technologist: About Me
+## :man_technologist: About Me
 
 I am a full stack developer from Peoria, IL, USA.
 
