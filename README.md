@@ -1,8 +1,6 @@
 ## :man_technologist: About Me
 
-I am a full stack developer from Peoria, IL, USA.
-
-...more to come here
+I am a full stack developer from Peoria, IL, 🇺🇸. I'm currently working as a Developer at Bayer
 
 ___
 ## :hammer_and_wrench: Languages and Tools
@@ -24,3 +22,4 @@ ___
   <img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' title='AWS' height='40' width='40' />
   <img src='https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg' title='Azure' width='40' height='40' />
 </div>
+---
