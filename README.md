@@ -1,6 +1,7 @@
 ## :man_technologist: About Me
 
 I am a full stack developer from Peoria, IL, 🇺🇸.
+
 I'm currently working from home as a Developer at Bayer Crop Science
 
 ___
@@ -23,6 +24,14 @@ ___
   <img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' title='AWS' height='40' width='40' />
   <img src='https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg' title='Azure' width='40' height='40' />
 </div>
+
+---
+
+## :octocat: My Github Stats
+
+![Todd's Github Stats](https://github-readme-stats.vercel.app/api?username=tstark2&count_private=true&theme=darcula)
+[![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=tstark2&theme=darcula)](https://git.io/streak-stats)
+
 
 ---
 
