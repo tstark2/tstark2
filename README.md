@@ -12,10 +12,10 @@ ___
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' title='JavaScript' width='40' height='40' />
   <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' title='TypeScript' width='40' height='40' />
   <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' title='React' width='40' height='40' />
+  <img src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg' title='Vue' width='40' height='40' />
   <img src='https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg' title='Go' width='40' height='40' />
   <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' title='PHP' width='40' height='40' />
   <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' title='NodeJS' width='40' height='40' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg' title='Vue' width='40' height='40' />
   <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' title='PostgreSQL' width='40' height='40' />
   <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' title='MongoDB' width='40' height='40' />
   <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' title='MySQL' height='40' width='40' />
