@@ -40,4 +40,7 @@ ___
   <a href="www.linkedin.com/in/todd-stark-ii">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://gitlab.com/tstark2">
+    <img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
 </div>
